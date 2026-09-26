@@ -1,0 +1,1 @@
+export const JOHN_IMAGE_URL = "/portfolio/john.jpg";
